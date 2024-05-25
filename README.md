@@ -28,6 +28,9 @@ IAs generativas são sistemas capazes de criar conteúdo original, desde textos 
 3. **Ética:** Utilize IA de maneira responsável, respeitando direitos autorais e privacidade.
 4. **Qualidade:** Combine a criatividade humana com a eficiência da IA para produzir conteúdo de alta qualidade.
 
+## Projeto Ebook
+  foi criado por ai no site: https://gamma.app/
 ## Conclusão
 
 Na era das IAs generativas, o equilíbrio entre tecnologia e autenticidade é crucial. Com práticas transparentes e éticas, é possível aproveitar as vantagens das IAs sem comprometer a confiança e a qualidade.
+
